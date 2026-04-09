@@ -1,0 +1,26 @@
+{
+  "name": "mega-fishing-malaysia-tips",
+  "version": "1.0.0",
+  "description": "Free online fishing game for Malaysian players",
+  "main": "index.html",
+  "keywords": [
+    "fishing",
+    "online-game",
+    "casino",
+    "browser-game",
+    "javascript",
+    "html5",
+    "free-game",
+    "malaysia"
+  ],
+  "author": "GTC Fishing",
+  "license": "MIT",
+  "homepage": "https://johmark2026-svg.github.io/mega-fishing-malaysia-tips/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johmark2026-svg/mega-fishing-malaysia-tips.git"
+  },
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  }
+}

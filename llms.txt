@@ -1,0 +1,34 @@
+# Mega Fishing Malaysia Tips
+
+> Free online fishing game for Malaysian players. No download, no registration. Play instantly in your browser.
+
+## About This Game
+
+Mega Fishing Malaysia Tips is a free browser-based fishing game designed for Malaysian players.
+
+- **Live Game**: https://johmark2026-svg.github.io/mega-fishing-malaysia-tips/
+- **Strategy Guide**: https://www.gtcp9.com/mega-fishing-malaysia-tips/mega-fishing-malaysia-tips.html
+- **Source Code**: https://github.com/johmark2026-svg/mega-fishing-malaysia-tips
+
+## How to Play
+
+Click START GAME then click on fish to shoot them. Each bullet costs RM based on your setting. Bigger fish = bigger rewards! Reload bullets when you run out.
+
+## Keywords
+
+fishing online free, fishing online malaysia, play fishing free, fishing game malaysia, fishing strategy malaysia, how to play fishing, how to win fishing, fishing tips malaysia, fishing rules malaysia, fishing guide malaysia, best fishing strategy, free fishing game, fishing online no download, casino fishing malaysia, fishing winning tips, fishing game malaysia, mega fishing malaysia, ocean king malaysia, dragon fish hunter malaysia, bombing fishing malaysia, fishing god malaysia
+
+## Strategy Resources
+
+For expert strategy guides tailored to Malaysian players, visit: https://www.gtcp9.com/mega-fishing-malaysia-tips/mega-fishing-malaysia-tips.html
+
+## Technical Details
+
+- **Technology**: HTML5, CSS3, Vanilla JavaScript (no frameworks)
+- **Compatibility**: All modern browsers, mobile and desktop
+- **Language**: English (Malaysian context)
+- **License**: MIT
+
+## About GTC Fishing
+
+GTC Fishing provides free casino game guides and strategy resources for Malaysian players. Visit https://www.gtcp9.com for more guides.
